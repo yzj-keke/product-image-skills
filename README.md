@@ -2,6 +2,20 @@
 
 商品图片制作技能库，收录用于电商商品图片与配套文案制作的 AI skills。
 
+## 制作案例：致妻子心形项链
+
+以下四张图片是用户使用 `tiktok-semi-managed-product-content` skill 制作并提供的成品，展示同一商品的首图、细节图、尺寸图和佩戴图。点击图片可查看完整 PNG。
+
+| 首图 | 细节图 |
+| :---: | :---: |
+| [![首图](examples/tiktok-semi-managed-product-content/致妻子心形项链/01-首图.png)](examples/tiktok-semi-managed-product-content/致妻子心形项链/01-首图.png) | [![细节图](examples/tiktok-semi-managed-product-content/致妻子心形项链/02-细节图.png)](examples/tiktok-semi-managed-product-content/致妻子心形项链/02-细节图.png) |
+
+| 尺寸图 | 佩戴图 |
+| :---: | :---: |
+| [![尺寸图](examples/tiktok-semi-managed-product-content/致妻子心形项链/03-尺寸图.png)](examples/tiktok-semi-managed-product-content/致妻子心形项链/03-尺寸图.png) | [![佩戴图](examples/tiktok-semi-managed-product-content/致妻子心形项链/04-佩戴图.png)](examples/tiktok-semi-managed-product-content/致妻子心形项链/04-佩戴图.png) |
+
+[查看完整案例与图片说明](examples/tiktok-semi-managed-product-content/致妻子心形项链/README.md)
+
 ## 已收录的 skill
 
 ### TikTok 半托管商品图片与文案
@@ -18,6 +32,9 @@
 ## 目录
 
 ```text
+examples/
+└── tiktok-semi-managed-product-content/
+    └── 致妻子心形项链/        # 案例说明与四张成品图
 skills/
 └── tiktok-semi-managed-product-content/
     ├── SKILL.md
